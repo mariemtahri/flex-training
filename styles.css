@@ -1,0 +1,14 @@
+
+.container-flex{
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap;
+}
+
+.container-flex div{
+border:1px #ccc solid;
+padding:10px;
+}
+.flex-item1{
+flex-basis:30%;
+}
